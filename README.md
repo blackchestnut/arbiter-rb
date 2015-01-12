@@ -1,2 +1,5 @@
 # arbiter-rb
-Run server `rackup config.ru`
+Run server
+```shell
+$ rackup config.ru
+```
