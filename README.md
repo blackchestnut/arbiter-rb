@@ -1,7 +1,7 @@
 # arbiter-rb
 Run server:
 ```console
-$ rackup config.ru
+rackup config.ru
 ```
 
 Localhost redirect test:
